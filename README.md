@@ -1,10 +1,12 @@
 # 1. Методы, взятые для исследования:
 
-https://github.com/hughplay/DFNet
+DFNet: https://github.com/hughplay/DFNet
 
-https://github.com/Atlas200dk/sample-imageinpainting-HiFill
+CRA: https://github.com/Atlas200dk/sample-imageinpainting-HiFill
 
-https://github.com/GouravWadhwa/Hypergraphs-Image-Inpainting
+HII: https://github.com/GouravWadhwa/Hypergraphs-Image-Inpainting
+
+Дл запуска использовать параметры из DFN_param.txt, HII_param.txt, CRA_param.txt
 
 # 2. Софт
 В generate_database.py можно подправить ссылку на папку с изображениями из images.7z (отметил комментарием) 
