@@ -1,12 +1,12 @@
 # 1. Методы, взятые для исследования:
 
-DFNet: https://github.com/hughplay/DFNet
+DFN: https://github.com/hughplay/DFNet
 
 CRA: https://github.com/Atlas200dk/sample-imageinpainting-HiFill
 
 HII: https://github.com/GouravWadhwa/Hypergraphs-Image-Inpainting
 
-Дл запуска использовать параметры из DFN_param.txt, HII_param.txt, CRA_param.txt
+Заменить все test.py в этих методах на redacted версии из репозитория НИРС. Для запуска использовать параметры из DFN_param.txt, HII_param.txt, CRA_param.txt. Причем CRA_param.txt - это переменные в самом исходном коде test.py. Для HII использованные параметры в виде conf_<name>.txt - прилагаются в репозитории, размещать в одной папке с запускаемым кодом.
 
 # 2. Софт
 В generate_database.py можно подправить ссылку на папку с изображениями из images.7z (отметил комментарием) 
