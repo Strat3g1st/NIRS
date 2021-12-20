@@ -1,6 +1,8 @@
 # НИРС
 
-1) Методы, взятые для исследования
+
+1) Методы, взятые для исследования:
+
 https://github.com/hughplay/DFNet
 https://github.com/Atlas200dk/sample-imageinpainting-HiFill
 https://github.com/GouravWadhwa/Hypergraphs-Image-Inpainting
