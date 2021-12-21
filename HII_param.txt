@@ -1,0 +1,41 @@
+--dataset places2 --pretrained_model_dir places2\random
+--checkpoint_prefix places2_256x256_random_mask 
+--generate_mask 0 
+--test_file_path samples\conf_frame.txt
+--test_dir C:\Users\maste\Documents\materials\results\places2\HII\recovery_frame\0.1_
+
+--dataset places2 --pretrained_model_dir places2\random
+--checkpoint_prefix places2_256x256_random_mask 
+--generate_mask 0 
+--test_file_path samples\conf_grid.txt
+--test_dir C:\Users\maste\Documents\materials\results\places2\HII\recovery_grid\0.1_
+
+--dataset places2 --pretrained_model_dir places2\random
+--checkpoint_prefix places2_256x256_random_mask 
+--generate_mask 0 
+--test_file_path samples\conf_noise.txt
+--test_dir C:\Users\maste\Documents\materials\results\places2\HII\recovery_grid\0.5_
+
+--dataset places2 --pretrained_model_dir places2\random
+--checkpoint_prefix places2_256x256_random_mask 
+--generate_mask 0 
+--test_file_path samples\conf_half.txt
+--test_dir C:\Users\maste\Documents\materials\results\places2\HII\recovery_half\0.5_
+
+--dataset places2 --pretrained_model_dir places2\random
+--checkpoint_prefix places2_256x256_random_mask 
+--generate_mask 0 
+--test_file_path samples\conf_rectangle1.txt
+--test_dir C:\Users\maste\Documents\materials\results\places2\HII\recovery_rectangle\0.1_
+
+--dataset places2 --pretrained_model_dir places2\random
+--checkpoint_prefix places2_256x256_random_mask 
+--generate_mask 0 
+--test_file_path samples\conf_rectangle2.txt
+--test_dir C:\Users\maste\Documents\materials\results\places2\HII\recovery_rectangle\0.2_
+
+--dataset places2 --pretrained_model_dir places2\random
+--checkpoint_prefix places2_256x256_random_mask 
+--generate_mask 0 
+--test_file_path samples\conf_rectangle5.txt
+--test_dir C:\Users\maste\Documents\materials\results\places2\HII\recovery_rectangle\0.5_

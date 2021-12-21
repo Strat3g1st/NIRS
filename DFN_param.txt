@@ -1,0 +1,34 @@
+--model model\\model_places2.pth 
+--img C:\\Users\\maste\\Documents\\materials\\images\\places2 
+--mask C:\\Users\\maste\\Documents\\materials\\masks\\places2\\mask_frame\\0.1_ 
+--output C:\\Users\\maste\\Documents\\materials\\results\\places2\\DFN\\recovery_frame\\0.1_
+
+--model model\\model_places2.pth 
+--img C:\\Users\\maste\\Documents\\materials\\images\\places2 
+--mask C:\\Users\\maste\\Documents\\materials\\masks\\places2\\mask_grid\\0.1_ 
+--output C:\\Users\\maste\\Documents\\materials\\results\\places2\\DFN\\recovery_grid\\0.1_
+
+--model model\\model_places2.pth 
+--img C:\\Users\\maste\\Documents\\materials\\images\\places2 
+--mask C:\\Users\\maste\\Documents\\materials\\masks\\places2\\mask_noise\\0.5_ 
+--output C:\\Users\\maste\\Documents\\materials\\results\\places2\\DFN\\recovery_noise\\0.5_
+
+--model model\\model_places2.pth 
+--img C:\\Users\\maste\\Documents\\materials\\images\\places2 
+--mask C:\\Users\\maste\\Documents\\materials\\masks\\places2\\mask_half\\0.5_ 
+--output C:\\Users\\maste\\Documents\\materials\\results\\places2\\DFN\\recovery_half\\0.5_
+
+--model model\\model_places2.pth 
+--img C:\\Users\\maste\\Documents\\materials\\images\\places2 
+--mask C:\\Users\\maste\\Documents\\materials\\masks\\places2\\mask_rectangle\\0.1_ 
+--output C:\\Users\\maste\\Documents\\materials\\results\\places2\\DFN\\recovery_rectangle\\0.1_
+
+--model model\\model_places2.pth 
+--img C:\\Users\\maste\\Documents\\materials\\images\\places2 
+--mask C:\\Users\\maste\\Documents\\materials\\masks\\places2\\mask_rectangle\\0.2_ 
+--output C:\\Users\\maste\\Documents\\materials\\results\\places2\\DFN\\recovery_rectangle\\0.2_
+
+--model model\\model_places2.pth 
+--img C:\\Users\\maste\\Documents\\materials\\images\\places2 
+--mask C:\\Users\\maste\\Documents\\materials\\masks\\places2\\mask_rectangle\\0.5_ 
+--output C:\\Users\\maste\\Documents\\materials\\results\\places2\\DFN\\recovery_rectangle\\0.5_
