@@ -16,15 +16,15 @@ args.output_dir = 'C:\\Users\\maste\\Documents\\materials\\results\\places2\\CRA
 
 args.images = 'C:\\Users\\maste\\Documents\\materials\\images\\places2'
 args.masks = 'C:\\Users\\maste\\Documents\\materials\\masks\\places2\\mask_rectangle\\0.1_'
-args.output_dir = 'C:\\Users\\maste\\Documents\\materials\\results\\places2\\CRA\\recovery_mask_rectangle\\0.1_'
+args.output_dir = 'C:\\Users\\maste\\Documents\\materials\\results\\places2\\CRA\\recovery_rectangle\\0.1_'
 
 args.images = 'C:\\Users\\maste\\Documents\\materials\\images\\places2'
 args.masks = 'C:\\Users\\maste\\Documents\\materials\\masks\\places2\\mask_rectangle\\0.2_'
-args.output_dir = 'C:\\Users\\maste\\Documents\\materials\\results\\places2\\CRA\\recovery_mask_rectangle\\0.2_'
+args.output_dir = 'C:\\Users\\maste\\Documents\\materials\\results\\places2\\CRA\\recovery_rectangle\\0.2_'
 
 args.images = 'C:\\Users\\maste\\Documents\\materials\\images\\places2'
 args.masks = 'C:\\Users\\maste\\Documents\\materials\\masks\\places2\\mask_rectangle\\0.5_'
-args.output_dir = 'C:\\Users\\maste\\Documents\\materials\\results\\places2\\CRA\\recovery_mask_rectangle\\0.5_'
+args.output_dir = 'C:\\Users\\maste\\Documents\\materials\\results\\places2\\CRA\\recovery_rectangle\\0.5_'
 
 
 
