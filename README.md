@@ -11,9 +11,13 @@ HII: https://github.com/GouravWadhwa/Hypergraphs-Image-Inpainting
 Везде запускал на CPU, для GPU с CUDA скорее всего правки в коде могут не сработать, учитывая ветки if-else. Но в целом можно отметить, что довольно медленно работает только CRA.
 
 Pretrained models
+
 Для DFNet взять places2: https://drive.google.com/drive/folders/1lKJg__prvJTOdgmg9ZDF9II8B1C3YSkN
+
 Для CRA взять: https://github.com/Atlas200dk/sample-imageinpainting-HiFill/tree/master/GPU_CPU/pb
+
 Для HII взять все отсюда: https://drive.google.com/drive/folders/1dk1zSm1FxZVaafOtvoud8aAdZ6Ubs4oU 
+
 
 # 2. Софт
 В generate_database.py можно подправить ссылку на папку с изображениями из images.7z (отметил комментарием) 
