@@ -14,7 +14,7 @@
 --checkpoint_prefix places2_256x256_random_mask 
 --generate_mask 0 
 --test_file_path samples\conf_noise.txt
---test_dir C:\Users\maste\Documents\materials\results\places2\HII\recovery_grid\0.5_
+--test_dir C:\Users\maste\Documents\materials\results\places2\HII\recovery_noise\0.5_
 
 --dataset places2 --pretrained_model_dir places2\random
 --checkpoint_prefix places2_256x256_random_mask 
